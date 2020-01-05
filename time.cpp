@@ -1,4 +1,6 @@
 //Vincent Perez
+//CODE EMULATES MOVIE SCHEDULING
+
 
 #include <iostream>
 using namespace std;
